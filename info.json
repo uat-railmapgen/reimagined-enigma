@@ -1,6 +1,6 @@
 {
   "component": "rmp",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "environment: "UAT",
   "instance": "GitHub"
 }
