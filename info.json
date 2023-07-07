@@ -1,6 +1,6 @@
 {
   "component": "rmp",
-  "version": "3.1.5.#340-Generate-rmg-saves.2dd72c4",
+  "version": "3.1.16.#231-Use-Vite-to-speed-up-development.d8d16fa",
   "environment": "UAT",
   "instance": "GitHub"
 }
