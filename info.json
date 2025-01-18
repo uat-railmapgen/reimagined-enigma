@@ -1,6 +1,6 @@
 {
   "component": "rmp",
-  "version": "5.1.28.#891-Update-gzmtr-int-to-the-same-scale-as-2024.d7c1d60",
+  "version": "5.1.28.#765-Use-getCorrectedBBox-from-gzmtr-interchange-station-2024.3ba64d5",
   "environment": "UAT",
   "instance": "GitHub"
 }
