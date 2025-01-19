@@ -1,6 +1,6 @@
 {
   "component": "rmp",
-  "version": "5.1.28.#765-Use-getCorrectedBBox-from-gzmtr-interchange-station-2024.3ba64d5",
+  "version": "5.1.7.#875-Update-app-metadata-on-importing-work-from-gallery.1919e23",
   "environment": "UAT",
   "instance": "GitHub"
 }
